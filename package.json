@@ -81,7 +81,7 @@
     "eslint-plugin-html": "^5.0.0",
     "eslint-plugin-import": "^2.6.0",
     "eslint-plugin-itgalaxy": "^95.0.0",
-    "eslint-plugin-jest": "^22.0.0",
+    "eslint-plugin-jest": "^22.2.1",
     "eslint-plugin-jsx-a11y": "^6.0.0",
     "eslint-plugin-lodash": "^5.1.0",
     "eslint-plugin-markdown": "^1.0.0-rc.1",
