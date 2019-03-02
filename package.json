@@ -57,7 +57,7 @@
     "fs-extra": "^7.0.1",
     "lodash.merge": "^4.6.1",
     "nunjucks": "^3.1.6",
-    "p-limit": "^2.1.0",
+    "p-limit": "^2.2.0",
     "resolve-from": "^4.0.0",
     "svg2ttf": "^4.0.0",
     "svgicons2svgfont": "^9.0.3",
